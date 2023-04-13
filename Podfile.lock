@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.3)
+  - GrowingTextView (0.7.2)
+  - ReverseExtension (0.6.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - GrowingTextView (= 0.7.2)
+  - ReverseExtension
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GrowingTextView
+    - ReverseExtension
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  GrowingTextView: 876bf42005b5e4a4fd740597db12caaf41f0fe6c
+  ReverseExtension: 5c7ca8c165f47e9bde8e26084d5e7bf21ad4f5a6
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 4614c9ae616ab1232e7d79cd001be276465f8ae8
+
+COCOAPODS: 1.10.1
